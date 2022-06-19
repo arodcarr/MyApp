@@ -14,6 +14,7 @@
 		77C36D35285EBD070019C7CE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 77C36D33285EBD070019C7CE /* LaunchScreen.storyboard */; };
 		77C36D3D285EC0340019C7CE /* SaludarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77C36D3C285EC0340019C7CE /* SaludarViewController.swift */; };
 		77C36D3F285EC3680019C7CE /* SumarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77C36D3E285EC3680019C7CE /* SumarViewController.swift */; };
+		77C36D41285ECE140019C7CE /* RestarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77C36D40285ECE140019C7CE /* RestarViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		77C36D36285EBD070019C7CE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		77C36D3C285EC0340019C7CE /* SaludarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SaludarViewController.swift; sourceTree = "<group>"; };
 		77C36D3E285EC3680019C7CE /* SumarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumarViewController.swift; sourceTree = "<group>"; };
+		77C36D40285ECE140019C7CE /* RestarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestarViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				77C36D2A285EBD060019C7CE /* SceneDelegate.swift */,
 				77C36D3C285EC0340019C7CE /* SaludarViewController.swift */,
 				77C36D3E285EC3680019C7CE /* SumarViewController.swift */,
+				77C36D40285ECE140019C7CE /* RestarViewController.swift */,
 				77C36D2E285EBD060019C7CE /* Main.storyboard */,
 				77C36D31285EBD070019C7CE /* Assets.xcassets */,
 				77C36D33285EBD070019C7CE /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				77C36D3D285EC0340019C7CE /* SaludarViewController.swift in Sources */,
+				77C36D41285ECE140019C7CE /* RestarViewController.swift in Sources */,
 				77C36D29285EBD060019C7CE /* AppDelegate.swift in Sources */,
 				77C36D2B285EBD060019C7CE /* SceneDelegate.swift in Sources */,
 				77C36D3F285EC3680019C7CE /* SumarViewController.swift in Sources */,
